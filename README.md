@@ -1,7 +1,7 @@
 # Dave Becker
 
 ### Hello, world! 👋
-📫How to reach me: [inbox@mrbecker.com](mailto:inbox@mrbecker.com)
+📫 How to reach me: [inbox@mrbecker.com](mailto:inbox@mrbecker.com)
 
 <!--
 **sirdavesir/sirdavesir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
